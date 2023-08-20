@@ -9,4 +9,4 @@ javascript
 working :
 when you click on particular drum then a function is called and sound will play
 there are different functions for different sounds.
-Hosted Link - https://github.com/
+Hosted Link - https://asgarsidd.github.io/JS-Test-Weekly/
